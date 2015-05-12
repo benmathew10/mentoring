@@ -50,3 +50,9 @@ Why do they create Git projects via Terminal?
 When I tried to find the difference between the `game_old` and `game_new`, I
 got an error saying there is no such file or directory, even though I saved it
 to my Downloads folder. Why?
+
+Things I Learned:
+ls, pwd, ls -la, ls -l, ls -a, cd, ., .., ~, vim, permissions, sudo, 
+
+Git: git status, git commit -m "<message>", git log, git add <file>, git init, 
+git remote add <remote name> <url>,  

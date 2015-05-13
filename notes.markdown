@@ -56,3 +56,9 @@ ls, pwd, ls -la, ls -l, ls -a, cd, ., .., ~, vim, permissions, sudo,
 
 Git: git status, git commit -m "<message>", git log, git add <file>, git init, 
 git remote add <remote name> <url>,  
+
+I learned how to use the manual, by typing "man" and the command you desire. 
+You can also use the "-h" or "--help". This gives you a breif summary of what 
+the commands do.
+
+
